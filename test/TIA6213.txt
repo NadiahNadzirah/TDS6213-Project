@@ -1,0 +1,28 @@
+As a conclusion, the breach was clearly due to a lack of response protocol and failure in processes rather than security tools. It proves that technical compliance, such as PCI-DSS, is insufficient, and continuous vigilance and robust security are required to protect and safeguard both the system and the entire business's availability. This incident showcased that Target itself had multiple missed opportunities to stop the attack at various stages, especially at the initial vendor access point and when alerts were triggered.
+
+As mentioned by my teammates, Target has incurred a direct financial loss of over $ 200 million, including fines, settlements, and recovery costs. The breach also caused a 46% drop in the holiday season's profit due to the loss of consumer trust. Moreover, Target also had to go through a long-term reputational damage, which took them over a decade to recover their consumers' loss of trust.
+
+Based on this case, there are a few key preventive lessons that can be obtained. First and foremost, companies must proactively enforce strict access control, multi-factor authentication, and network segmentation for all third-party vendors to protect the business's sensitive data. Second, they need to move beyond static compliance. Companies' IT security teams need to put themselves in the hacker's shoes to hunt for threats and stimulate real-life attacks to ensure alerts are acted upon immediately. Lastly, they need to isolate critical systems, like POS networks, and encrypt sensitive data at all times, especially in memory. These steps will help in proactively defending and protecting critical data by limiting access to outsiders. Ultimately, this case teaches us that true security requires both building resilient systems and the need for proactive and reactive actions, not just preparing to pay for failures.
+
+The breach was not due to a lack of security tools, but a failure in processes and response.
+
+It proves that technical compliance (like PCI-DSS) is not enough; vigilance and a strong security culture are critical.
+
+The "Kill Chain" analysis shows Target had multiple missed opportunities to stop the attack at various stages, especially at the initial vendor access point and when alerts were triggered.
+
+2. The Core Impact and Losses
+
+Direct Loss: >$200M in fines, settlements, and recovery costs.
+
+Business Impact: A 46% holiday profit drop due to shattered consumer trust.
+
+Strategic Loss: Long-term reputational damage, with 45% of shoppers distrusting retailers' data security post-breach.
+
+3. What Should Be Done Next (Key Preventative Lessons)
+
+Strengthen Third-Party Risk Management: Enforce strict access controls, segmentation, and multi-factor authentication for all vendors.
+
+Establish a Proactive Security Posture: Move beyond static compliance. Use frameworks like the Kill Chain to hunt for threats and ensure alerts are acted upon immediately.
+
+Prioritize Data-Centric Defense: Isolate critical systems (like POS networks) and encrypt sensitive data at all times, especially in memory.
+
