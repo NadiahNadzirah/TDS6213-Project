@@ -61,7 +61,7 @@ x                                                x
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 |                                                 |
-|         M o v i e s   M a n a g e m e n t       |
+|        M o v i e s   M a n a g e m e n t        |
 |                                                 |
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 |           1. Add New Movie                      |
@@ -71,6 +71,24 @@ x                                                x
 |           3. Edit Movie Details                 |
 |— — — — — — — — — — — — — — — — — — — — — — — — —|
 |           4. Return to Main Menu                |
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+|                                                 |
+|            S e a r c h   M o v i e s            |
+|                                                 |
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+|           1. View All Movies                    |
+|— — — — — — — — — — — — — — — — — — — — — — — — —|
+|           2. Search by Movie Title              |
+|— — — — — — — — — — — — — — — — — — — — — — — — —|
+|           3. Search by Rating                   |
+|— — — — — — — — — — — — — — — — — — — — — — — — —|
+|           4. Search by Genre                    |
+|— — — — — — — — — — — — — — — — — — — — — — — — —|
+|           5. Search by Year Published           |
+|— — — — — — — — — — — — — — — — — — — — — — — — —|
+|           6. Return to Main Menu                |
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 
